@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '26015'
     url: http://www.gutenberg.org/2009/agents/26015
     wikipedia: https://en.wikipedia.org/wiki/Theodore_Low_De_Vinne
+covers:
+- cover_type: archival
+  image_path: 72217-h/images/cover.jpg
 creator:
   author:
     agent_name: Moxon, Joseph
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56595
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Moxon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72217#Moxon-s-mechanick-exercises-volume-1-of-2-b-The-doctrine-of-handy-works-applied-to-the-art-of_
 gutenberg_issued: '2023-11-24'
 identifiers:
   gutenberg: '72217'
